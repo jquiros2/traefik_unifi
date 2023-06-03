@@ -7,6 +7,6 @@ This is a working setup for it.
 traefik in one folder with its docker-compose and a separate unifi folder with its own docker-compose.
 This is in case you want to add other services in separate docker-compose files.
 
-Mostly based on:
+Almost entirely based on:
 
 https://gist.github.com/jeroenhendricksen/7dfe273277bbbd1c2ea2cb7c647b24fa
