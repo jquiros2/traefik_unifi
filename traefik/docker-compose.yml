@@ -71,7 +71,5 @@ services:
 networks:
   traefik_proxy_unifi:
     driver: bridge
-  traefik_proxy_osticket:
-    driver: bridge
   # others_traefik_net:
   #   driver: bridge
